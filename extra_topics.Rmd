@@ -1,0 +1,11 @@
+---
+title: "Extra topics"
+author: "Xiaoni Xu"
+date: "2024-12-03"
+output: html_document
+---
+
+Copilot and other topics that I cannot quite follow on typing...
+```{r setup, message = FALSE}
+
+```
